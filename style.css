@@ -11,6 +11,6 @@
 }
 
 .completed li:active{
-    background: red;
+    background: blue;
     border: 1px solid red;
 }
