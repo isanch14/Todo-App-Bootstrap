@@ -1,4 +1,5 @@
 .container{
+    background: blue;
     min-height: 100vh;
 }
 
@@ -7,10 +8,11 @@
 }
 
 .completed li{
+    color: black;
     text-decoration: line-through;
 }
 
 .completed li:active{
-    background: blue;
+    background:green;
     border: 1px solid red;
 }
